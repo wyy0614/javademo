@@ -1,25 +1,21 @@
 package com.ider.runeland.pojo;
 
-public class GreenRune extends Epigraph{
+public class BlueRune extends Epigraph{
     private int adhurt;//物理攻击
     private int aphurt;//法术攻击
     private int adSpeed;//攻击速度
-    private int apCoolDown;//冷却缩减
-    private int adPenetrate;//物理穿透
-    private int apPenetrate;//法术穿透
-    private int adDefense;//物理防御
-    private int apDefense;//法术防御
-    private int apCrit;//暴击率
-    private int apHeal;//每5秒回血
     private int maxlife;//最大生命
+    private int apHeal;//每5秒回血
+    private int MoveSpeed;//移速
+    private int adLeech;//物理吸血
     private int apLeech;//法术吸血
+    private int apDefense;//法术防御
+    private int adDefense;//物理防御
+    private int apCrit;//暴击率
 
-
-    GreenRune(String sname, String color, int level, int adhurt, int aphurt,
-              int adSpeed, int maxlife, int adDefense,  int  apDefense,
-              int apLeech, int apCrit, int adPenetrate, int apPenetrate,
-              int apCoolDown,int apHeal) {
-
+    BlueRune(String sname, String color, int level, int adhurt, int aphurt,
+             int adSpeed, int maxlife, int adDefense, int adLeech,
+             int apLeech, int apCrit, int apHeal, int MoveSpeed) {
         this.sname = sname;
         this.color = color;
         this.level = level;
@@ -28,18 +24,15 @@ public class GreenRune extends Epigraph{
         this.adSpeed = adSpeed;
         this.maxlife = maxlife;
         this.adDefense = adDefense;
-        this.apDefense = apDefense;
+        this.adLeech = adLeech;
         this.apLeech = apLeech;
         this.apCrit = apCrit;
-        this.adPenetrate=adPenetrate;
-        this.apPenetrate=apPenetrate;
-        this.apCoolDown=apCoolDown;
         this.apHeal=apHeal;
-
+        this.MoveSpeed=MoveSpeed;
     }
 
-    public String getsname(){return this.sname;}
-    public void setsname(String sname){this.sname=sname;}
+    public String getname(){return this.sname;}
+    public void setname(String name){this.sname=name;}
 
     public String getcolor(){return this.color;}
     public void setcolor(String color){this.color=color;}
@@ -50,10 +43,7 @@ public class GreenRune extends Epigraph{
     public void setlevel(int level){
         this.level=level;
     }
-
-
-
-    public int  getAdhurt(){
+    public int  getadhurt(){
         return this.adhurt;
     }
     public void setAdhurt(int adhurt){
@@ -63,11 +53,11 @@ public class GreenRune extends Epigraph{
     public int  getAphurt(){
         return this.aphurt;
     }
-    public void setApHurt(int aphurt){
+    public void setAphurt(int aphurt){
         this.aphurt=aphurt;
     }
 
-    public int  getadSpeed(){
+    public int  getAdSpeed(){
         return this.adSpeed;
     }
     public  void setAdSpeed(int AdSpeed){
@@ -84,15 +74,17 @@ public class GreenRune extends Epigraph{
     public int  getadDefense(){
         return this.adDefense;
     }
-    public void setaddefense(int adDefense){
+    public void setadDefense(int adDefense){
         this.adDefense=adDefense;
     }
 
-    public int  getapDefense(){
-        return this.apDefense;
+
+
+    public int  getadLeech(){
+        return this.adLeech;
     }
-    public void setapdefense(int apDefense){
-        this.apDefense=apDefense;
+    public void setadLeech(int adLeech){
+        this.adLeech=adLeech;
     }
 
     public int  getapLeech(){
@@ -102,41 +94,28 @@ public class GreenRune extends Epigraph{
         this.apLeech=apLeech;
     }
 
+
+
+
+
+
     public int  getapCrit(){
         return this.apCrit;
     }
     public void setapCrit(int apCrit){
         this.apCrit=apCrit;
     }
-    public int getadPenetrate(){
-        return this.adPenetrate;
-    }
-    public void setadPenetrate(int adPenetrate){
-        this.adPenetrate=adPenetrate;
-    }
-
-    public int getapPenetrate(){
-        return this.apPenetrate;
-    }
-    public void setapPenetrate(int apPenetrate){
-        this.apPenetrate=apPenetrate;
-    }
-
-    public int  getapCoolDown(){
-        return this.apCoolDown;
-    }
-    public void setapCoolDown(int apCoolDown){
-        this.apCoolDown=apCoolDown;
-    }
-
     public int  getapHeal(){
         return this.apHeal;
     }
     public void setapHeal(int apHeal){
         this.apHeal=apHeal;
     }
-
-
-
+    public int  getMoveSpeed(){
+        return this.MoveSpeed;
+    }
+    public void setMoveSpeed(int MoveSpeed){
+        this.MoveSpeed=MoveSpeed;
+    }
 
 }
