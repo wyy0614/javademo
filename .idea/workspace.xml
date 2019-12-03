@@ -8,13 +8,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/javademo$AuctionTest1.ic" NAME="AuctionTest1 Coverage Results" MODIFIED="1575257918015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ider.meiyongde.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/RuneTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/AuctionTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6180">
-              <caret line="206" column="26" selection-start-line="206" selection-start-column="26" selection-end-line="206" selection-end-column="26" />
+            <state relative-caret-position="357">
+              <caret line="154" column="24" lean-forward="true" selection-start-line="154" selection-start-column="24" selection-end-line="154" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -23,137 +28,72 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/Users.java">
+        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="8" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/OrangeRune.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="384">
+              <caret line="17" column="89" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
               <folding>
-                <element signature="e#1338#1339#0" expanded="true" />
-                <element signature="e#1371#1372#0" expanded="true" />
-                <element signature="e#1408#1409#0" expanded="true" />
-                <element signature="e#1440#1441#0" expanded="true" />
-                <element signature="e#1472#1473#0" expanded="true" />
-                <element signature="e#1506#1507#0" expanded="true" />
-                <element signature="e#1545#1546#0" expanded="true" />
-                <element signature="e#1579#1580#0" expanded="true" />
-                <element signature="e#1609#1610#0" expanded="true" />
-                <element signature="e#1643#1644#0" expanded="true" />
-                <element signature="e#1682#1683#0" expanded="true" />
-                <element signature="e#1716#1717#0" expanded="true" />
-                <element signature="e#1747#1748#0" expanded="true" />
-                <element signature="e#1782#1783#0" expanded="true" />
-                <element signature="e#1824#1825#0" expanded="true" />
-                <element signature="e#1860#1861#0" expanded="true" />
-                <element signature="e#1891#1892#0" expanded="true" />
-                <element signature="e#1926#1927#0" expanded="true" />
-                <element signature="e#1967#1968#0" expanded="true" />
-                <element signature="e#2003#2004#0" expanded="true" />
-                <element signature="e#2036#2037#0" expanded="true" />
-                <element signature="e#2073#2074#0" expanded="true" />
-                <element signature="e#2118#2119#0" expanded="true" />
-                <element signature="e#2158#2159#0" expanded="true" />
-                <element signature="e#2196#2197#0" expanded="true" />
-                <element signature="e#2238#2239#0" expanded="true" />
-                <element signature="e#2293#2294#0" expanded="true" />
-                <element signature="e#2343#2344#0" expanded="true" />
-                <element signature="e#2374#2375#0" expanded="true" />
-                <element signature="e#2409#2410#0" expanded="true" />
-                <element signature="e#2450#2451#0" expanded="true" />
-                <element signature="e#2486#2487#0" expanded="true" />
-                <element signature="e#2520#2521#0" expanded="true" />
-                <element signature="e#2558#2559#0" expanded="true" />
-                <element signature="e#2605#2606#0" expanded="true" />
-                <element signature="e#2647#2648#0" expanded="true" />
-                <element signature="e#2684#2685#0" expanded="true" />
-                <element signature="e#2725#2726#0" expanded="true" />
-                <element signature="e#2778#2779#0" expanded="true" />
-                <element signature="e#2826#2827#0" expanded="true" />
-                <element signature="e#2863#2864#0" expanded="true" />
-                <element signature="e#2904#2905#0" expanded="true" />
-                <element signature="e#2957#2958#0" expanded="true" />
-                <element signature="e#3005#3006#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/GreenRune.java">
+        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/pojo/AuctionItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="312">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
-                <element signature="e#1489#1490#0" expanded="true" />
-                <element signature="e#1522#1523#0" expanded="true" />
-                <element signature="e#1559#1560#0" expanded="true" />
-                <element signature="e#1591#1592#0" expanded="true" />
-                <element signature="e#1623#1624#0" expanded="true" />
-                <element signature="e#1657#1658#0" expanded="true" />
-                <element signature="e#1696#1697#0" expanded="true" />
-                <element signature="e#1730#1731#0" expanded="true" />
-                <element signature="e#1760#1761#0" expanded="true" />
-                <element signature="e#1794#1795#0" expanded="true" />
-                <element signature="e#1833#1834#0" expanded="true" />
-                <element signature="e#1867#1868#0" expanded="true" />
-                <element signature="e#1898#1899#0" expanded="true" />
-                <element signature="e#1933#1934#0" expanded="true" />
-                <element signature="e#1975#1976#0" expanded="true" />
-                <element signature="e#2011#2012#0" expanded="true" />
-                <element signature="e#2042#2043#0" expanded="true" />
-                <element signature="e#2077#2078#0" expanded="true" />
-                <element signature="e#2118#2119#0" expanded="true" />
-                <element signature="e#2154#2155#0" expanded="true" />
-                <element signature="e#2187#2188#0" expanded="true" />
-                <element signature="e#2224#2225#0" expanded="true" />
-                <element signature="e#2269#2270#0" expanded="true" />
-                <element signature="e#2309#2310#0" expanded="true" />
-                <element signature="e#2342#2343#0" expanded="true" />
-                <element signature="e#2379#2380#0" expanded="true" />
-                <element signature="e#2424#2425#0" expanded="true" />
-                <element signature="e#2464#2465#0" expanded="true" />
-                <element signature="e#2502#2503#0" expanded="true" />
-                <element signature="e#2544#2545#0" expanded="true" />
-                <element signature="e#2599#2600#0" expanded="true" />
-                <element signature="e#2649#2650#0" expanded="true" />
-                <element signature="e#2680#2681#0" expanded="true" />
-                <element signature="e#2715#2716#0" expanded="true" />
-                <element signature="e#2756#2757#0" expanded="true" />
-                <element signature="e#2792#2793#0" expanded="true" />
-                <element signature="e#2827#2828#0" expanded="true" />
-                <element signature="e#2868#2869#0" expanded="true" />
-                <element signature="e#2921#2922#0" expanded="true" />
-                <element signature="e#2969#2970#0" expanded="true" />
-                <element signature="e#3005#3006#0" expanded="true" />
-                <element signature="e#3046#3047#0" expanded="true" />
-                <element signature="e#3099#3100#0" expanded="true" />
-                <element signature="e#3147#3148#0" expanded="true" />
-                <element signature="e#3175#3176#0" expanded="true" />
-                <element signature="e#3207#3208#0" expanded="true" />
-                <element signature="e#3242#3243#0" expanded="true" />
-                <element signature="e#3272#3273#0" expanded="true" />
-                <element signature="e#3298#3299#0" expanded="true" />
-                <element signature="e#3328#3329#0" expanded="true" />
-                <element signature="e#3359#3360#0" expanded="true" />
-                <element signature="e#3385#3386#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/dao/AuctionItemDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/Epigraph.java">
+        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/pojo/Users.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="168">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1032">
+              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -173,48 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/Jf.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/Ac.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/lianXi.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/Pd.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/Text1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text4.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text5.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text3.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text2.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text6.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text7.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text9.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text10.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text11.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text12.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text13.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text14.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text15.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text16.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text17.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text18.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text19.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text8.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/Mei/SuShu.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/Mei/Asd.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/Mei/OutPutPing.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/demo1/text1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/demo1/text2.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/demo2/Bag.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/demo2/Test1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/demo3/Test1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/GameOne/User.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/GameOne/Data.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/GameOne/UserDemo1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/demo4/Users.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/demo4/UsersTest.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/demo4/FuWen.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/RuneTest.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/LinShou.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/GameTwoAlter/Users.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/UserDemoOne.java" />
         <option value="$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/Users.java" />
         <option value="$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/LSTest.java" />
         <option value="$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/Epigraph.java" />
@@ -223,15 +121,57 @@
         <option value="$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/BlueRune.java" />
         <option value="$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/GreenRune.java" />
         <option value="$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/OrangeRune.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/csl.java" />
         <option value="$PROJECT_DIR$/jsedemo/src/com/ider/runeland/RuneTest.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/poJoN/UsersNew.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/utils/SceneUtil.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/poJoN/Blue.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/poJoN/Green.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/poJoN/Orange.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/RuneTestNew.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/poJoN/EpigraphNew.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/Userinfo.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/theCar/taxi.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/theCar/homeCar.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/theCar/Taxi.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/theCar/HomeCar.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/theCar/CarTest.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/AuctionTest.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/util/SceneUtils.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/basicInf/Userinfo.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/theCar/Car.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/morra/UserController.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/morra/pojo/User.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/morra/Dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/morra/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/morra/MorraTest.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/morra/service/UserService.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/StudentTest.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Studentdemo.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Demo.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/StudentDemo.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/StudentTemo.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/StudentText.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Student.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/StudentDemoo.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/service/AuctionItemService.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/service/UserService.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/controller/AuctionItemController.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/pojo/AuctionItem.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/pojo/Users.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/dao/AuctionItemDao.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/ider/auction/AuctionTest1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="405" />
-    <option name="y" value="635" />
-    <option name="width" value="1245" />
-    <option name="height" value="590" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="745" />
+    <option name="y" value="110" />
+    <option name="width" value="1180" />
+    <option name="height" value="710" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -240,8 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,6 +211,50 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ider" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ider" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ider" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ider" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ider" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ider" type="462c0819:PsiDirectoryNode" />
               <item name="GameOne" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -281,35 +263,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ider" type="462c0819:PsiDirectoryNode" />
-              <item name="GameTwo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ider" type="462c0819:PsiDirectoryNode" />
-              <item name="runeland" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ider" type="462c0819:PsiDirectoryNode" />
-              <item name="runeland" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="RuneLandNew" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574682466798" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575331796208" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="C:/Users/Public/Nwt/cache/recv/精英-11张冶" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -317,7 +284,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -331,13 +299,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InscriptionTest">
-    <configuration name="Data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ider.GameOne.Data" />
+  <component name="RunManager" selected="Application.AuctionTest1">
+    <configuration name="AuctionTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ider.auction.AuctionTest1" />
       <module name="jsedemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ider.GameOne.*" />
+          <option name="PATTERN" value="com.ider.meiyongde.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,11 +313,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InscriptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo1.pojo.InscriptionTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo1.pojo.*" />
+          <option name="PATTERN" value="my.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,12 +325,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LSTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ider.GameTwo.LSTest" />
+    <configuration name="MorraTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ider.morra.MorraTest" />
       <module name="jsedemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ider.GameTwo.*" />
+          <option name="PATTERN" value="com.ider.morra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,12 +338,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinShou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ider.GameTwo.LinShou" />
+    <configuration name="StudentDemoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ider.TextZ.StudentDemoo" />
       <module name="jsedemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ider.GameTwo.*" />
+          <option name="PATTERN" value="com.ider.TextZ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,12 +351,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserDemoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ider.GameTwo.UserDemoOne" />
+    <configuration name="StudentTemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ider.TextZ.StudentTemo" />
       <module name="jsedemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ider.GameTwo.*" />
+          <option name="PATTERN" value="com.ider.TextZ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,11 +366,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InscriptionTest" />
-        <item itemvalue="Application.LSTest" />
-        <item itemvalue="Application.UserDemoOne" />
-        <item itemvalue="Application.LinShou" />
-        <item itemvalue="Application.Data" />
+        <item itemvalue="Application.AuctionTest1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StudentDemoo" />
+        <item itemvalue="Application.StudentTemo" />
+        <item itemvalue="Application.MorraTest" />
       </list>
     </recent_temporary>
   </component>
@@ -434,16 +402,32 @@
       <workItem from="1574642195237" duration="61000" />
       <workItem from="1574642275565" duration="19000" />
       <workItem from="1574642314495" duration="18940000" />
+      <workItem from="1574728804416" duration="1104000" />
+      <workItem from="1574737425269" duration="11665000" />
+      <workItem from="1574778384510" duration="4237000" />
+      <workItem from="1574814351327" duration="14301000" />
+      <workItem from="1574900017870" duration="8281000" />
+      <workItem from="1574908724488" duration="8685000" />
+      <workItem from="1574924090415" duration="13885000" />
+      <workItem from="1574987013105" duration="15720000" />
+      <workItem from="1575076822816" duration="2243000" />
+      <workItem from="1575079139876" duration="13081000" />
+      <workItem from="1575202121099" duration="1828000" />
+      <workItem from="1575245589854" duration="17847000" />
+      <workItem from="1575270874019" duration="814000" />
+      <workItem from="1575271744323" duration="13504000" />
+      <workItem from="1575331520787" duration="234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114056000" />
+    <option name="totallyTimeSpent" value="241496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1997319" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19705094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,8 +436,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.70914125" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.7783933" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -462,7 +446,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.14382023" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.1922545" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.4362881" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -472,501 +456,576 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19436997" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.7783933" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.14382023" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.4362881" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/Mei/Pd.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/poJoN/Blue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/Mei/Jf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/Mei/hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Text10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/Mei/Ac.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/Mei/Asd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/Mei/SuShu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/Mei/lianXi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/Mei/OutPutPing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo1/text2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo1/text1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo3/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameOne.java" />
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo2/Bag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo2/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo4/UsersTest.java" />
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameOne/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="16" selection-start-line="11" selection-start-column="5" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameTwoAlter/Users.java" />
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/colors/FadeComments.xml" />
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/options/colors.scheme.xml" />
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/.idea/encodings.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/load/jopo/Blue.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="610">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
           <folding>
-            <element signature="e#0#519#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+            <element signature="e#1318#1319#0" expanded="true" />
+            <element signature="e#1366#1367#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1528#1529#0" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
+            <element signature="e#1607#1608#0" expanded="true" />
+            <element signature="e#1642#1643#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1722#1723#0" expanded="true" />
+            <element signature="e#1767#1768#0" expanded="true" />
+            <element signature="e#1804#1805#0" expanded="true" />
+            <element signature="e#1852#1853#0" expanded="true" />
+            <element signature="e#1892#1893#0" expanded="true" />
+            <element signature="e#1937#1938#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2022#2023#0" expanded="true" />
+            <element signature="e#2062#2063#0" expanded="true" />
+            <element signature="e#2103#2104#0" expanded="true" />
+            <element signature="e#2137#2138#0" expanded="true" />
+            <element signature="e#2179#2180#0" expanded="true" />
+            <element signature="e#2213#2214#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/load/jopo/Epigraph.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/load/jopo/Users.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/load/jopo/Orange.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#452#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameOne/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo4/FuWen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/javademo/jsedemo/testTwo/out/production/testTwo/User.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#575#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo4/Users.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/Users.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/poJoN/EpigraphNew.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/javademo/jsedemo/testTwo/out/production/testTwo/ziFuWen.class">
+    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/zhouce/Car.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="300">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding>
-            <element signature="e#0#268#0" expanded="true" />
+            <element signature="e#0#594#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/javademo/jsedemo/testTwo/out/production/testTwo/fuWen.class">
+    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/zhouce/HomeCar.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="71">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
-            <element signature="e#0#1930#0" expanded="true" />
+            <element signature="e#0#659#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/zhouce/taxi.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#788#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/zhouce/CarTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/zhouce/ShuZu.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <folding>
+            <element signature="e#0#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/poJoN/UsersNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/utils/SceneUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/javademo/jsedemo/testTwo/out/production/testTwo/Main.class">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/meiyongde/basicInf/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2160">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        <state relative-caret-position="48">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/meiyongde/basicInf/Storeroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/meiyongde/basicInf/Userinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding>
-            <element signature="e#0#3583#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/meiyongde/basicInf/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/meiyongde/basicInf/AuctionItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/theCar/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/theCar/CarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/theCar/Taxi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/theCar/HomeCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/morra/MorraTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/morra/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/morra/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/morra/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/morra/Dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/LinShou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="408">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/LSTest.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/StudentTemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1560">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="96">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/UserDemoOne.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/StudentText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2185">
-          <caret line="110" column="3" lean-forward="true" selection-start-line="110" selection-start-column="3" selection-end-line="110" selection-end-column="3" />
+        <state relative-caret-position="432">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding>
-            <element signature="e#0#3794#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameOne/UserDemo1.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/StudentDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="124" column="18" lean-forward="true" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+        <state relative-caret-position="288">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/pojo/Users.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/StudentDemoo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="168">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/pojo/OrangeInscription.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/TextZ/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1221" />
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/pojo/InscriptionTest.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/meiyongde/util/SceneUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="288">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/meiyongde/AuctionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/Public/Nwt/cache/recv/精英-11张冶/pojo/Inscription.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/LSTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="-120">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/Users.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/Users.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/BlueRune.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameTwo/UserDemoOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        <state>
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameOne/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/service/AuctionItemService.java" />
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/controller/AuctionItemController.java" />
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo2/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/GameOne/UserDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="154" column="34" selection-start-line="154" selection-start-column="34" selection-end-line="154" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1350#1351#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
-            <element signature="e#1419#1420#0" expanded="true" />
-            <element signature="e#1451#1452#0" expanded="true" />
-            <element signature="e#1485#1486#0" expanded="true" />
-            <element signature="e#1524#1525#0" expanded="true" />
-            <element signature="e#1558#1559#0" expanded="true" />
-            <element signature="e#1588#1589#0" expanded="true" />
-            <element signature="e#1622#1623#0" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1695#1696#0" expanded="true" />
-            <element signature="e#1726#1727#0" expanded="true" />
-            <element signature="e#1761#1762#0" expanded="true" />
-            <element signature="e#1803#1804#0" expanded="true" />
-            <element signature="e#1839#1840#0" expanded="true" />
-            <element signature="e#1870#1871#0" expanded="true" />
-            <element signature="e#1905#1906#0" expanded="true" />
-            <element signature="e#1946#1947#0" expanded="true" />
-            <element signature="e#1982#1983#0" expanded="true" />
-            <element signature="e#2015#2016#0" expanded="true" />
-            <element signature="e#2052#2053#0" expanded="true" />
-            <element signature="e#2097#2098#0" expanded="true" />
-            <element signature="e#2137#2138#0" expanded="true" />
-            <element signature="e#2175#2176#0" expanded="true" />
-            <element signature="e#2217#2218#0" expanded="true" />
-            <element signature="e#2272#2273#0" expanded="true" />
-            <element signature="e#2322#2323#0" expanded="true" />
-            <element signature="e#2360#2361#0" expanded="true" />
-            <element signature="e#2402#2403#0" expanded="true" />
-            <element signature="e#2457#2458#0" expanded="true" />
-            <element signature="e#2507#2508#0" expanded="true" />
-            <element signature="e#2538#2539#0" expanded="true" />
-            <element signature="e#2573#2574#0" expanded="true" />
-            <element signature="e#2614#2615#0" expanded="true" />
-            <element signature="e#2650#2651#0" expanded="true" />
-            <element signature="e#2675#2676#0" expanded="true" />
-            <element signature="e#2705#2706#0" expanded="true" />
-            <element signature="e#2736#2737#0" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
-            <element signature="e#2787#2788#0" expanded="true" />
-            <element signature="e#2817#2818#0" expanded="true" />
-            <element signature="e#2848#2849#0" expanded="true" />
-            <element signature="e#2874#2875#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/Epigraph.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/demo2/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="477">
+          <caret line="44" column="53" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/GreenRune.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#1489#1490#0" expanded="true" />
-            <element signature="e#1522#1523#0" expanded="true" />
-            <element signature="e#1559#1560#0" expanded="true" />
-            <element signature="e#1591#1592#0" expanded="true" />
-            <element signature="e#1623#1624#0" expanded="true" />
-            <element signature="e#1657#1658#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
-            <element signature="e#1730#1731#0" expanded="true" />
-            <element signature="e#1760#1761#0" expanded="true" />
-            <element signature="e#1794#1795#0" expanded="true" />
-            <element signature="e#1833#1834#0" expanded="true" />
-            <element signature="e#1867#1868#0" expanded="true" />
-            <element signature="e#1898#1899#0" expanded="true" />
-            <element signature="e#1933#1934#0" expanded="true" />
-            <element signature="e#1975#1976#0" expanded="true" />
-            <element signature="e#2011#2012#0" expanded="true" />
-            <element signature="e#2042#2043#0" expanded="true" />
-            <element signature="e#2077#2078#0" expanded="true" />
-            <element signature="e#2118#2119#0" expanded="true" />
-            <element signature="e#2154#2155#0" expanded="true" />
-            <element signature="e#2187#2188#0" expanded="true" />
-            <element signature="e#2224#2225#0" expanded="true" />
-            <element signature="e#2269#2270#0" expanded="true" />
-            <element signature="e#2309#2310#0" expanded="true" />
-            <element signature="e#2342#2343#0" expanded="true" />
-            <element signature="e#2379#2380#0" expanded="true" />
-            <element signature="e#2424#2425#0" expanded="true" />
-            <element signature="e#2464#2465#0" expanded="true" />
-            <element signature="e#2502#2503#0" expanded="true" />
-            <element signature="e#2544#2545#0" expanded="true" />
-            <element signature="e#2599#2600#0" expanded="true" />
-            <element signature="e#2649#2650#0" expanded="true" />
-            <element signature="e#2680#2681#0" expanded="true" />
-            <element signature="e#2715#2716#0" expanded="true" />
-            <element signature="e#2756#2757#0" expanded="true" />
-            <element signature="e#2792#2793#0" expanded="true" />
-            <element signature="e#2827#2828#0" expanded="true" />
-            <element signature="e#2868#2869#0" expanded="true" />
-            <element signature="e#2921#2922#0" expanded="true" />
-            <element signature="e#2969#2970#0" expanded="true" />
-            <element signature="e#3005#3006#0" expanded="true" />
-            <element signature="e#3046#3047#0" expanded="true" />
-            <element signature="e#3099#3100#0" expanded="true" />
-            <element signature="e#3147#3148#0" expanded="true" />
-            <element signature="e#3175#3176#0" expanded="true" />
-            <element signature="e#3207#3208#0" expanded="true" />
-            <element signature="e#3242#3243#0" expanded="true" />
-            <element signature="e#3272#3273#0" expanded="true" />
-            <element signature="e#3298#3299#0" expanded="true" />
-            <element signature="e#3328#3329#0" expanded="true" />
-            <element signature="e#3359#3360#0" expanded="true" />
-            <element signature="e#3385#3386#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/pojo/OrangeRune.java">
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wyy970614/FileStorage/File/2019-12/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state relative-caret-position="216">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/RuneLandNew/RuneTestNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
-            <element signature="e#1338#1339#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
-            <element signature="e#1472#1473#0" expanded="true" />
-            <element signature="e#1506#1507#0" expanded="true" />
-            <element signature="e#1545#1546#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-            <element signature="e#1609#1610#0" expanded="true" />
-            <element signature="e#1643#1644#0" expanded="true" />
-            <element signature="e#1682#1683#0" expanded="true" />
-            <element signature="e#1716#1717#0" expanded="true" />
-            <element signature="e#1747#1748#0" expanded="true" />
-            <element signature="e#1782#1783#0" expanded="true" />
-            <element signature="e#1824#1825#0" expanded="true" />
-            <element signature="e#1860#1861#0" expanded="true" />
-            <element signature="e#1891#1892#0" expanded="true" />
-            <element signature="e#1926#1927#0" expanded="true" />
-            <element signature="e#1967#1968#0" expanded="true" />
-            <element signature="e#2003#2004#0" expanded="true" />
-            <element signature="e#2036#2037#0" expanded="true" />
-            <element signature="e#2073#2074#0" expanded="true" />
-            <element signature="e#2118#2119#0" expanded="true" />
-            <element signature="e#2158#2159#0" expanded="true" />
-            <element signature="e#2196#2197#0" expanded="true" />
-            <element signature="e#2238#2239#0" expanded="true" />
-            <element signature="e#2293#2294#0" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2374#2375#0" expanded="true" />
-            <element signature="e#2409#2410#0" expanded="true" />
-            <element signature="e#2450#2451#0" expanded="true" />
-            <element signature="e#2486#2487#0" expanded="true" />
-            <element signature="e#2520#2521#0" expanded="true" />
-            <element signature="e#2558#2559#0" expanded="true" />
-            <element signature="e#2605#2606#0" expanded="true" />
-            <element signature="e#2647#2648#0" expanded="true" />
-            <element signature="e#2684#2685#0" expanded="true" />
-            <element signature="e#2725#2726#0" expanded="true" />
-            <element signature="e#2778#2779#0" expanded="true" />
-            <element signature="e#2826#2827#0" expanded="true" />
-            <element signature="e#2863#2864#0" expanded="true" />
-            <element signature="e#2904#2905#0" expanded="true" />
-            <element signature="e#2957#2958#0" expanded="true" />
-            <element signature="e#3005#3006#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/runeland/RuneTest.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/AuctionTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6180">
-          <caret line="206" column="26" selection-start-line="206" selection-start-column="26" selection-end-line="206" selection-end-column="26" />
+        <state relative-caret-position="357">
+          <caret line="154" column="24" lean-forward="true" selection-start-line="154" selection-start-column="24" selection-end-line="154" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="17" column="89" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/pojo/AuctionItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/pojo/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/ider/auction/dao/AuctionItemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="139" column="5" lean-forward="true" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
